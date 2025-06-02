@@ -1,5 +1,8 @@
 name: UDN Web Scraper
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: '30 0 * * *'  # 台北早上 8:30 執行
