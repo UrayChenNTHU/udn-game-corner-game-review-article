@@ -1,0 +1,16 @@
+streamlit
+openai
+google-genai
+autogen-agentchat
+autogen-ext[openai]
+ag2[gemini]
+ag2[openai]
+jieba
+scikit-learn
+wget
+wordcloud
+tabulate
+beautifulsoup4
+selenium
+webdriver-manager
+python-dotenv
